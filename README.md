@@ -1,6 +1,6 @@
 # Cars Dataset Visualization - Streamlit App
 
-![Logo](logo.png)
+![Logo](https://github.com/MedAzzam/Streamlit-App-Data-Visualization/blob/0b1a96eac47790037b290225cd20e19618d4d5de/2.png)
 
 This Streamlit app allows you to visualize the Cars Dataset using Plylot and Seaborn. It provides various visualizations for univariate analysis, bivariate analysis, and multivariate analysis.
 
@@ -29,7 +29,7 @@ To run the Streamlit app, follow these steps:
 
 ## App Demo
 
-![App Demo](demo.png)
+![App Demo](https://github.com/MedAzzam/Streamlit-App-Data-Visualization/blob/0b1a96eac47790037b290225cd20e19618d4d5de/demo.PNG)
 
 ## Features
 
