@@ -29,7 +29,7 @@ To run the Streamlit app, follow these steps:
 
 ## App Demo
 
-![App Demo](https://github.com/MedAzzam/Streamlit-App-Data-Visualization/blob/0b1a96eac47790037b290225cd20e19618d4d5de/demo.PNG)
+![App Demo](demo.PNG)
 
 ## Features
 
